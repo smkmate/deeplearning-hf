@@ -9,6 +9,7 @@
 ## Software environment
  
 The softwarte at this point consists of a notebook. It can be run from google colab or any other IDE capable of handling jupyter notebooks.
+ 
  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smkmate/deeplearning-hf/blob/main/DL_HW_MileStone1.ipynb)
 
 ## Project description
