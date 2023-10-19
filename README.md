@@ -5,6 +5,10 @@
  - Team members:
    - El-Ali Maya - BHI5LF
     - Simkó Máté - O3BMRX
+  
+
+ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smkmate/deeplearning-hf/blob/main/DL_HW_MileStone1.ipynb)
+
 
 ## Software environment
  
