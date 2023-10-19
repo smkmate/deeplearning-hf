@@ -16,5 +16,8 @@ The goal of this project is to develop a personalized friend recommendation syst
 
 ## Related materials
 
-- https://snap.stanford.edu/data/ego-Facebook.html 
+- https://snap.stanford.edu/data/ego-Facebook.html
+- https://docs.dgl.ai/
+- https://medium.com/social-media-theories-ethics-and-analytics/facebook-graph-analysis-using-networkx-1e0741138a37
+- https://medium.com/stanford-cs224w/friend-recommendation-using-graphsage-ffcda2aaf8d6
 
