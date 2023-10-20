@@ -1,7 +1,7 @@
 # DEEP LEARNING
 ## Team information
 
- - Team name:
+ - Team name: node0 
  - Team members:
    - El-Ali Maya - BHI5LF
     - Simkó Máté - O3BMRX
