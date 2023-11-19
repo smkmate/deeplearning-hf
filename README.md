@@ -6,11 +6,14 @@
    - El-Ali Maya - BHI5LF
     - Simkó Máté - O3BMRX
   
-## Software environment
+## Project structure
  
-The softwarte at this point consists of a notebook. It can be run from google colab or any other IDE capable of handling jupyter notebooks.
+The code can be found in jupyter notebooks in the *notebooks* folder, with the *{ego_user}.ipynb* format. Each notebook contains the complete pipeline for a given graph, which includes data loading, hyperparameter optimisation, training, training data visualisation and evaluation. These notebooks where designed to be run in [Google Colab]() and install all dependencies not in the base environment.
+
+The best model for each ego graph can be found in the *models/{ego_user}* folders. These models also include the hyperparameters for the model and the training, as well as the training history.
+
+The results of the hyperparameter optimasition are in the *hyperopt* folder with the *{ego_user}.csv* naming convention.
  
- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/smkmate/deeplearning-hf/blob/main/DL_HW_MileStone1.ipynb)
 
 ## Project description
 
