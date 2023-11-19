@@ -1,0 +1,2 @@
+n_hidden,n_layers,dropout,lr,bottleneck,train loss,train accuracy,val loss,val accuracy
+128,2,0,0.001,False,0.49246594309806824,0.7512195110321045,0.40717604756355286,0.7758620977401733
