@@ -8,11 +8,11 @@
   
 ## Project structure
  
-The code can be found in jupyter notebooks in the *notebooks* folder, with the *{ego_user}.ipynb* format. Each notebook contains the complete pipeline for a given graph, which includes data loading, hyperparameter optimisation, training, training data visualisation and evaluation. These notebooks where designed to be run in [Google Colab]() and install all dependencies not in the base environment.
+The code can be found in jupyter notebooks in the *notebooks* folder, with the *{ego_user}.ipynb* format. Each notebook contains the complete pipeline for a given graph, which includes data loading, hyperparameter optimisation, training, training data visualisation and evaluation. These notebooks where designed to be run in [Google Colab](https://colab.research.google.com) and install all dependencies not in the base environment.
 
-The best model for each ego graph can be found in the *models/{ego_user}* folders. These models also include the hyperparameters for the model and the training, as well as the training history.
+The best model for each ego graph can be found in the *models/{ego_user}* folders. These folders also include the hyperparameters for the model and the training, as well as the training history.
 
-The results of the hyperparameter optimasition are in the *hyperopt* folder with the *{ego_user}.csv* naming convention.
+The results of the hyperparameter optimisation are in the *hyperopt* folder with the *{ego_user}.csv* naming convention.
  
 
 ## Project description
