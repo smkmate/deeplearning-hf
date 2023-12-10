@@ -13,6 +13,8 @@ The code can be found in jupyter notebooks in the *notebooks* folder, with the *
 The best model for each ego graph can be found in the *models/{ego_user}* folders. These folders also include the hyperparameters for the model and the training, as well as the training history.
 
 The results of the hyperparameter optimisation are in the *hyperopt* folder with the *{ego_user}.csv* naming convention.
+
+The friend recommendation algorithm and the visualisation for it can be seen in the notebooks/Visualisation.ipynb.
  
 
 ## Project description
